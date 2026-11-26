@@ -14,9 +14,11 @@
 
 1. 用户选择重新梳理考点时，先查阅 `NNN_面试考点_已确认规则.md`（如有）。如果已确认规则仍保存在面试考点导航文档中，按[记录已确认的考点和提问顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:17)将这些规则迁入 `NNN_面试考点_已确认规则.md`。
 
-2. 以用户确认的文档为范围，从本次初稿中找考点。筛选时遵循已经确认的规则。[挖掘候选考点](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:19)
+2. 以用户指定的文档为范围，按[挖掘候选考点](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:19)逐项梳理本轮初稿，结合公开相似题、用户关注的问题和已有回答，找出值得考查的内容。筛选考点和安排提问顺序时，遵循《面试考点_已确认规则》中用户明确提出的要求。新发现且符合要求的考点，也列入候选问题清单，提交用户确认。
 
 ## 1.2 挖掘候选考点
+
+挖掘考点时，对照《面试考点_已确认规则》核对本轮候选问题清单。用户明确要求考查的考点要全部涵盖，明确要求排除的考点要从清单中移除。继续从本轮材料中挖掘其他值得考查的内容，符合要求的一并列为候选考点。
 
 ### 1.2.1 从公开面试题发现考查角度，再回查项目
 
@@ -173,7 +175,7 @@
 
    - 候选理由 说明为什么值得问。项目材料有依据，就注明位置和它能说明什么。找到公开相似题，就列出原题、出处链接和来源类型，写清共同考点。哪类依据没有，就省略哪一类。
 
-     将出题频率作为候选理由时，按[如实记录来源类型、岗位级别、核实程度和出题频率](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:150)中的规则，写明统计覆盖了哪些面试记录，以及该问题在其中出现了多少次。
+     将出题频率作为候选理由时，按[如实记录来源类型、岗位级别、核实程度和出题频率](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:152)中的规则，写明统计覆盖了哪些面试记录，以及该问题在其中出现了多少次。
 
 4. 提交《候选问题清单》前，先对照本次项目材料，检查各项功能、技术选型和用户明确关注的问题是否都已考虑。再按本次适用的规则抽查依据或逐项核对结果。例如，候选理由中写了“高频”，就回查来源给出的样本范围和出现次数。发现遗漏时，先补齐，再提交。
 

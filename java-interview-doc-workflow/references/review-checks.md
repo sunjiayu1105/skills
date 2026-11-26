@@ -152,11 +152,11 @@
 
 10. 提交前，逐篇检查本次新建或重命名的 Markdown 文档。文件名应以三位数字和下划线开头，一级标题应与去掉 `.md` 后的文件名一致。
 
-11. 提交前，检查本次新建或重命名的 Markdown 文档所在目录的编号是否连续、有无重号。编号冲突和 `999` 文档按[按阅读顺序分配文档编号](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:71)处理。
+11. 提交前，检查本次新建或重命名的 Markdown 文档所在目录的编号是否连续、有无重号。编号冲突和 `999` 文档按[按阅读顺序分配文档编号](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:73)处理。
 
 12. 逐一检查本次改动影响的链接，确认每个链接都指向预期的文档或具体位置。
 
-13. 提交前，对照最终文档清单和[确定四类配套文档的名称和排列顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:107)，核对实际目录中的四类配套文档是否各只保留最新一份，并检查文件名、排列顺序和编号是否正确。
+13. 提交前，对照最终文档清单和[确定四类配套文档的名称和排列顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:109)，核对实际目录中的四类配套文档是否各只保留最新一份，并检查文件名、排列顺序和编号是否正确。
 
 ### 1.2.6 执行 AI 自检
 

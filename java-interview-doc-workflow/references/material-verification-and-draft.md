@@ -12,7 +12,7 @@
 
 4. 开始整理前，先核对当前文档中已有的用户要求，具体见 [1.7.1 阅读已确认规则](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:155)。
 
-5. 在项目材料目录中新建任何 Markdown 文档前，按[安排文档顺序、编号和文件名](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:67)中的规则确定编号和文件名。无需拆分或重组时同样适用。
+5. 在项目材料目录中新建任何 Markdown 文档前，按[安排文档顺序、编号和文件名](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:69)中的规则确定编号和文件名。无需拆分或重组时同样适用。
 
 ## 1.2 核实材料并整理初稿
 

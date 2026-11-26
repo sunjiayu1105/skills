@@ -41,7 +41,7 @@ description: 用于整理、复核或拆分高级 Java 面试材料。开始时�
 
 1. 用户选择沿用已确认的考点时，按[沿用已确认的考点](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:9)中的规则确定本次使用的清单。
 
-2. 用户选择重新梳理考点时，先按[挖掘候选考点](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:19)中的规则，从本次材料中提取候选考点，再按[根据考点拟定问题](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:77)中的规则，逐个拟定问题，确定主问题和追问、答题范围及候选理由，核对依据后直接写入《候选问题清单》。整份清单写完并核对后，提交用户确认。
+2. 用户选择重新梳理考点时，先按[挖掘候选考点](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:19)中的规则，从本次材料中提取候选考点，再按[根据考点拟定问题](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:81)中的规则，逐个拟定问题，确定主问题和追问、答题范围及候选理由，核对依据后直接写入《候选问题清单》。整份清单写完并核对后，提交用户确认。
 
 本次使用的考点和答题范围确定后，判断是否需要拆分或重组。
 

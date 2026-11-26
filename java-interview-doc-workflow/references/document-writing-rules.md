@@ -204,4 +204,4 @@
 
 3. 只有实际执行了相应检查或测试，且结果支持对应结论时，才能将该结论标为“已验证”。
 
-4. 文档中仍有项目事实需要确认，或仍有结论需要通过检查、测试来验证时，按[标注状态](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:191)中的规则分别标明。
+4. 文档中仍有项目事实需要确认，或仍有结论需要通过检查、测试来验证时，按[标注状态](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:207)中的规则分别标明。

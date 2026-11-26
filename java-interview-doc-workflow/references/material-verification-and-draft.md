@@ -10,7 +10,7 @@
 
 3. 查阅对应版本的官方文档、源码或版本说明，作为核实技术内容的依据。
 
-4. 开始整理前，先核对当前文档中已有的用户要求，具体见 [1.7.1 阅读已确认规则](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:155)。
+4. 开始整理前，先核对当前文档中已有的用户要求，具体见 [1.7.1 阅读已确认规则](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:171)。
 
 5. 在项目材料目录中新建任何 Markdown 文档前，按[安排文档顺序、编号和文件名](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:69)中的规则确定编号和文件名。无需拆分或重组时同样适用。
 
@@ -20,7 +20,7 @@
 
 2. 根据可靠资料核实材料内容，在授权范围内修正已查实的错误。修正涉及变更用户已确认的要求时，先说明哪项要求需要调整、建议怎样调整以及依据是什么，待用户同意后再修改该项要求。
 
-3. 核实材料时发现尚未确定的事项，按[1.8.3 标注状态](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:189)标注状态。正文应在现有依据能够支持的范围内给出结论。
+3. 核实材料时发现尚未确定的事项，按[1.8.3 标注状态](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:205)标注状态。正文应在现有依据能够支持的范围内给出结论。
 
 4. 整理过程中发现材料说法不一致，且无法根据现有依据判断哪种适用时，列出各自的出处、分歧和需要用户决定的事项，逐项向用户确认。用户确认后，再处理受影响的内容。
 
@@ -32,9 +32,9 @@
 
 1. 来源无法查阅或确认时，标明“来源待确认”，说明待核实内容和受影响的结论；其他有依据的内容可以继续整理。
 
-2. 形成初稿时，按[1.8.2 记录事项](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:179)记录发现的待确认或待验证事项。
+2. 形成初稿时，按[1.8.2 记录事项](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:195)记录发现的待确认或待验证事项。
 
-3. 形成初稿时，按[1.9.1 记录异议](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:211)记录发现的异议。
+3. 形成初稿时，按[1.9.1 记录异议](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:227)记录发现的异议。
 
 4. 整理中发现的问题写入文档的对应章节。无法归入文档现有问题章节的事项，在对话中说明。对话中的其他内容按本次任务的需要决定。
 

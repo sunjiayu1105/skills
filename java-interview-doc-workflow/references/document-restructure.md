@@ -123,7 +123,7 @@
 
 ## 1.3 编制拆分与重组方案，提交用户确认
 
-1. 拟定拆分方案时，按[1.5.4 字符数统计](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:109)的字符数统计口径评估面试口述篇幅。预计超过 300 字符时，检查是否有符合独立成篇条件的追问。继续拆分会影响答案完整性时，可以保留较长的口述。
+1. 拟定拆分方案时，按[1.5.4 字符数统计](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-document-writing.md:125)的字符数统计口径评估面试口述篇幅。预计超过 300 字符时，检查是否有符合独立成篇条件的追问。继续拆分会影响答案完整性时，可以保留较长的口述。
 
 2. 提交拆分或合并方案前，将原文中的内容逐项与本次整理后的其他文档对照，找出这些文档还没讲到的内容。确认方案的「内容去向」已逐项写明由哪篇文档承接。
 

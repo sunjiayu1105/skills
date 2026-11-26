@@ -8,7 +8,7 @@
 
    **示例** 用户指定 001–033，未拆分重组时，复核全部 33 篇。若拆分重组后为 001–038，则复核全部 38 篇。
 
-3. 最终文档清单确定后，按清单建立本轮进度表。目录中已有《文档整理进度》时，用本轮记录替换上轮记录。首次执行时，按[确定四类配套文档的名称和排列顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:113)创建该文件。
+3. 最终文档清单确定后，按清单建立本轮进度表。目录中已有《文档整理进度》时，用本轮记录替换上轮记录。首次执行时，按[确定四类配套文档的名称和排列顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:107)创建该文件。
 
 4. 清单中的每篇文档对应一条记录，初始状态为「未开始」，整理次数为 `0`。
 

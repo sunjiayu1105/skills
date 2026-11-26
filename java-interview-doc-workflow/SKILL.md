@@ -19,7 +19,7 @@ description: 用于整理、复核或拆分高级 Java 面试材料。开始时�
 
 用户选择重新梳理考点时，以用户指定的文档为范围。用户尚未指定文档时，先确认本次要整理哪些文档，再核实材料并形成初稿。
 
-1. 确定整理范围后，按[配套文档命名规则](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:103)查找已有文件。查找时按三位编号和下划线之后的完整名称匹配。
+1. 确定整理范围后，按[确定四类配套文档的名称和排列顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:113)查找已有文件。查找时按三位编号和下划线之后的完整名称匹配。
 
 2. 遇到旧名称时，按内容判断文件用途，将仍需保留的内容归入对应的配套文档。
 
@@ -27,7 +27,7 @@ description: 用于整理、复核或拆分高级 Java 面试材料。开始时�
 
 3. 用户确认本轮问题后，用本轮已确认的问题条目替换导航中的上轮清单。答题文档确定后，更新各条目的链接。
 
-4. 更新《面试考点_已确认规则》时，按[已确认规则维护](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:15)保留仍然有效的要求，并写入本轮新确认的要求。
+4. 更新《面试考点_已确认规则》时，按[记录已确认的考点和提问顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:17)保留仍然有效的要求，并写入本轮新确认的要求。
 
 5. 移除旧文件前，核对仍需保留的内容是否已迁入最新文件，并确认原有引用已指向迁入后的对应位置。
 
@@ -47,7 +47,7 @@ description: 用于整理、复核或拆分高级 Java 面试材料。开始时�
 
 ## 2.5 文档拆分与重组
 
-1. 需要拆分或重组时，按[文档拆分与重组细则](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:1)提交方案。用户确认后，按细则执行拆分、同步更新引用并检查拆分结果。
+1. 需要拆分或重组时，按[面试文档拆分与重组](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:1)提交方案。用户确认后，按细则执行拆分、同步更新引用并检查拆分结果。
 
 2. 完成拆分检查并修正发现的问题后，进入[2.6 逐篇整理与复核](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/SKILL.md:56)，按最终文档清单逐篇检查全文。
 

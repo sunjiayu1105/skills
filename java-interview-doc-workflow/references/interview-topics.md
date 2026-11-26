@@ -12,7 +12,7 @@
 
 ### 1.1.2 重新选题前核对文档范围和已确认规则
 
-1. 用户选择重新梳理考点时，先查阅 `NNN_面试考点_已确认规则.md`（如有）。如果已确认规则仍保存在面试考点导航文档中，按[已确认规则维护](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:15)将这些规则迁入 `NNN_面试考点_已确认规则.md`。
+1. 用户选择重新梳理考点时，先查阅 `NNN_面试考点_已确认规则.md`（如有）。如果已确认规则仍保存在面试考点导航文档中，按[记录已确认的考点和提问顺序](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:17)将这些规则迁入 `NNN_面试考点_已确认规则.md`。
 
 2. 以用户确认的文档为范围，从本次初稿中找考点。筛选时遵循已经确认的规则。[挖掘候选考点](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:19)
 
@@ -185,7 +185,7 @@
 
 ### 1.4.2 按已确认考点安排答题文档，核对每个问题的链接
 
-1. 如果需要拆分或重组文档，先按[1 文档拆分与重组](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:1)提交方案，用户确认后再调整文档、整理答案。无需拆分或重组时，直接整理答案。
+1. 如果需要拆分或重组文档，先按[面试文档拆分与重组](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/document-restructure.md:1)提交方案，用户确认后再调整文档、整理答案。无需拆分或重组时，直接整理答案。
 
 2. 答题文档确定后，逐个检查导航文档「已确认考点」里的链接，确保每个问题都指向回答它的文档。
 

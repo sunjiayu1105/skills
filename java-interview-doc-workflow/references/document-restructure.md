@@ -8,7 +8,7 @@
 
 ### 1.1.2 将入选问题写入考点导航
 
-1. 在「已确认考点」章节，按[将入选问题写入导航的规则](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:180)写入问题条目。每道追问放在直接引出它的问题下。对应的答题文档确定后，在条目后附上链接。
+1. 在「已确认考点」章节，按[将入选问题写入导航的规则](/C:/Users/Administrator/.codex/skills/java-interview-doc-workflow/references/interview-topics.md:192)写入问题条目。每道追问放在直接引出它的问题下。对应的答题文档确定后，在条目后附上链接。
 
    文档拆分或重组后，核对读者能否从导航打开本次整理后的每篇文档。汇总等其他文档在导航中列出名称和链接。
 
